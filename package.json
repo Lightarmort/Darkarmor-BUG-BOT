@@ -1,6 +1,6 @@
 {
-    "name": "ABHI-BUG-BOT",
-    "version": "0.0.1",
+    "name": "DARKARMOR-BUG-BOT",
+    "version": "1.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "ABHISHEK SURESH",
+    "author": "Light Armor Tech",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
